@@ -110,8 +110,6 @@ Use protected para atributos que subclasses devem acessar.
 
 Evite public em atributos ou classes internas — privilegie encapsulamento.
 
-## 🤔 Quando usar public então?
-
 ## 🧪 Exemplo sem encapsulamento
 
 ```java
