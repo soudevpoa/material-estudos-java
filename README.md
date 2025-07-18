@@ -12,4 +12,5 @@ Este guia contém capítulos explicativos sobre os principais pilares da program
 5. [Polimorfismo](./05-polimorfismo.md)
 6. [Encapsulamento e Modificadores de Acesso](./06-encapsulamento.md)
 7. [Construtores e Sobrecarga](./07-construtores.md)
-8. [Classes Sealed, Non-Sealed e Final](./09-classes-sealed-final.md)
+8. [Classes Sealed, Non-Sealed e Final](./08-classes-sealed-final.md)
+9. [Record no JAVA](./09-record-java.md)
