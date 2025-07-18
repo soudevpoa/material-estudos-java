@@ -4,6 +4,7 @@ Este guia contém capítulos explicativos sobre os principais pilares da program
 
 ## 🧠 Índice de capítulos
 
+0. [Tipos Primitivos](./00-tipos-primitivos.md)
 1. [Classes e Objetos](./01-classes-objetos.md)
 2. [Métodos](./02-metodos.md)
 3. [Conceitos da OOP](./03-orientacao-objetos.md)
