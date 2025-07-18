@@ -13,4 +13,5 @@ Este guia contém capítulos explicativos sobre os principais pilares da program
 6. [Encapsulamento e Modificadores de Acesso](./06-encapsulamento.md)
 7. [Construtores e Sobrecarga](./07-construtores.md)
 8. [Classes Sealed, Non-Sealed e Final](./08-classes-sealed-final.md)
-9. [Record no JAVA](./09-record-java.md)
+9. [Record — Classes de Dados Imutáveis](./09-record-java.md)
+10. [Classes Abstratas — Moldes para Subclasses](./10-classes-abstratas.md)
