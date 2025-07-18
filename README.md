@@ -15,3 +15,4 @@ Este guia contém capítulos explicativos sobre os principais pilares da program
 8. [Classes Sealed, Non-Sealed e Final](./08-classes-sealed-final.md)
 9. [Record — Classes de Dados Imutáveis](./09-record-java.md)
 10. [Classes Abstratas — Moldes para Subclasses](./10-classes-abstratas.md)
+11. [Tipos Especiais de Classes em Java](./11-tipos-de-classes.md)
